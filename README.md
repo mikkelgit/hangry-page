@@ -2,7 +2,7 @@
 # Hangry Page
 Slicing ishangry.com page
 
-[Deploy Link](https://whos-hangry.web.app/)
+[Deploy Link](https://anyone-hangry.web.app/
 
 ## How to run this web app locally
 
