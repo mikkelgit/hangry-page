@@ -6,7 +6,7 @@ export default function Benefits() {
         <div className="main-container">
             <div className="benefits-wrapper">
                 <div className="benefits-illustration" style={{ order: 9999 }}>
-                    <img src="https://cdn.idntimes.com/content-images/community/2019/05/photo-1466978913421-dad2ebd01d17-c4498ab51675603a20b03394ed6399d6.jpeg" alt="" />
+                    <img src="https://cdn.idntimes.com/content-images/community/2019/05/photo-1466978913421-dad2ebd01d17-c4498ab51675603a20b03394ed6399d6.jpeg" alt="benefits illustration" />
                 </div>
                 <div style={{ paddingRight: 16 }}>
                     <div className="benefits-title-wrapper">

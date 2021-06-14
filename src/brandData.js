@@ -1,4 +1,4 @@
-export default [
+const brandData = [
     {
         bg: 'https://res.cloudinary.com/dgsgylfvr/image/upload/w_350,q_auto,f_auto,dpr_1.25/v1599794778/hangry-assets/brands/thumbnail/Thumbnail_Homescreen_AyamKoplo.jpg',
         logo: 'https://res.cloudinary.com/dgsgylfvr/image/upload/w_56,h_56,q_auto,f_auto,dpr_1.25/v1599197890/hangry-assets/brands/logo/Ayam_Koplo.png',
@@ -28,3 +28,5 @@ export default [
         origin: 'Indonesia'
     }
 ]
+
+export default brandData
