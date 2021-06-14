@@ -2,6 +2,8 @@
 # Hangry Page
 Slicing ishangry.com page
 
+Made with react and pure CSS
+
 [Deploy Link](https://anyone-hangry.web.app/)
 
 ## How to run this web app locally
