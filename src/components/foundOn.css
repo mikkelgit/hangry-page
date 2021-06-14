@@ -1,0 +1,31 @@
+div.found-on-wrapper {
+    text-align: center;
+    font-weight: 600;
+    color: #707070;
+    margin: 6rem 0;
+}
+
+div.found-on-brand-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+div.found-on-brand-wrapper img {
+    height: 1.25rem;
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+}
+
+@media (min-width: 1024px) {
+    div.found-on-brand-wrapper img {
+        height: 3rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+
+    div.found-on-wrapper {
+        margin: 8rem 0;
+    }
+    
+}

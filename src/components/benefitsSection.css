@@ -1,0 +1,90 @@
+div.benefits-illustration img {
+    border-radius: 0.75rem;
+    height: 10rem;
+    width: 20rem;
+    object-fit: cover;
+    margin: 0.75rem auto;
+    display: block;
+}
+
+p.benefits-main-title {
+    font-weight: 900;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+p.benefits-subtitle {
+    font-size: 0.9rem;
+    color: #707070;
+    margin-bottom: 1rem;
+    line-height: 1.5rem;
+}
+
+div.benefits-details {
+    padding: 1rem;
+}
+
+div.benefits-list-item {
+    display: flex;
+    margin-bottom: 1.5rem;
+    font-weight: 900;
+}
+
+div.benefits-list-item svg {
+    margin-right: 1rem;
+    height: 1rem;
+}
+
+svg.check-icon {
+    color: #A30926;
+}
+
+p.terms {
+    margin-top: 0.5rem;
+    font-weight: 100;
+    font-size: 0.75rem;
+    color: #707070;
+}
+
+div.button {
+    background-color: #A30926;
+    padding: 0.75rem 1.25rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    margin: 0 auto;
+}
+
+@media (min-width: 1024px) {   
+    div.benefits-wrapper {
+        display: flex;
+    }
+
+    div.benefits-illustration img {
+        height: 20rem;
+        width: 30rem;
+    }
+
+    p.benefits-main-title {
+        font-size: 2rem;
+    }
+    
+    p.benefits-subtitle {
+        font-size: 1.25rem;
+    }
+
+    div.benefits-list-item {
+        font-size: 1.5rem;
+    }
+
+    div.benefits-list-item svg {
+        height: 1.5rem;
+    }
+
+    div.button {
+        padding: 1.25rem 1.25rem;
+        margin: 0;
+        max-width: 10rem;
+    }
+}
