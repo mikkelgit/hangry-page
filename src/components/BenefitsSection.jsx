@@ -8,7 +8,7 @@ export default function Benefits() {
                 <div className="benefits-illustration" style={{ order: 9999 }}>
                     <img src="https://cdn.idntimes.com/content-images/community/2019/05/photo-1466978913421-dad2ebd01d17-c4498ab51675603a20b03394ed6399d6.jpeg" alt="benefits illustration" />
                 </div>
-                <div style={{ paddingRight: 16 }}>
+                <div>
                     <div className="benefits-title-wrapper">
                         <p className="benefits-main-title">Makin rame, makin hemat!</p>
                         <p className="benefits-subtitle">Nikmati keuntungan dengan minimum pembelian 20 porsi menu apa aja. Cocok untuk hidangan segala acara!</p>

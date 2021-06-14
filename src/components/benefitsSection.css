@@ -56,6 +56,10 @@ div.button {
     margin: 0 auto;
 }
 
+div.benefits-title-wrapper {
+    padding-right: 1rem;
+}
+
 @media (min-width: 1024px) {   
     div.benefits-wrapper {
         display: flex;
